@@ -8,16 +8,16 @@ body{
 }
 .container
 {
-    width: 1000px;
+    width: 400px;
     margin: 250px;
-    min-height: 300px;
+    min-height: 600px;
     background-color: beige;
     border-radius: 4px;
     color: blue;
 }
 .item{
     padding: 50px;
-    max-width:5px ;
+    max-width:10px ;
     background-color: aqua;
     font-weight: bold;
     cursor: grab;
